@@ -4,7 +4,7 @@
 }
 
 svg {
-    border: 1px solid black;
+    border: 1px solid #000000;
 }
 
 .background {
@@ -16,7 +16,7 @@ svg {
 }
 
 .finish {
-    fill: blue;
+    fill: #0000A0;
 }
 
 .background.pattern {
