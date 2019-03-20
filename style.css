@@ -14,3 +14,7 @@ rect.background {
 rect.path {
     fill: #ffffff;
 }
+
+.finish {
+    fill: blue;
+}
