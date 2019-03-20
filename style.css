@@ -1,0 +1,16 @@
+.container {
+    margin: 0 auto;
+    width: 500px;
+}
+
+svg {
+    border: 1px solid black;
+}
+
+rect {
+    fill:#000000;
+}
+
+rect.path {
+    fill:#ffffff;
+}
