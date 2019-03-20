@@ -18,3 +18,7 @@ svg {
 .finish {
     fill: blue;
 }
+
+.background.pattern {
+    fill: url(#pattern);
+}
