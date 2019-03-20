@@ -7,11 +7,11 @@ svg {
     border: 1px solid black;
 }
 
-rect.background {
+.background {
     fill: #000000;
 }
 
-rect.path {
+.path {
     fill: #ffffff;
 }
 
