@@ -18,7 +18,3 @@ svg {
 .finish {
     fill: #0000A0;
 }
-
-.background.pattern {
-    fill: url(#pattern);
-}
